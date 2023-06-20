@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "24_PIN_HEADER")(type "KiCad")(uri "C:/Users/Victor/Desktop/Senior-Design/KiCad/Libraries/24_PIN_HEADER.pretty")(options "")(descr ""))
   (lib (name "FTSH-107-01-L-DV-K")(type "KiCad")(uri "C:/Users/Victor/Desktop/Senior-Design/KiCad/Libraries/FTSH-107-01-L-DV-K")(options "")(descr ""))
+  (lib (name "SS312SAH4-R")(type "KiCad")(uri "C:/Users/Victor/Desktop/Senior-Design/KiCad/Libraries/SS312SAH4-R")(options "")(descr ""))
 )
